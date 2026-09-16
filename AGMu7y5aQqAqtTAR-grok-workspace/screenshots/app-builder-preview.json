@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "120 домашних рецептов, которые работают — Тимофей Багров",
+      "hasCanvas": false,
+      "bodyTextLen": 4802,
+      "bodyTextHash": "28d81cc4d6ac0ebf6f1fd874de5c9e79ffff92f8075567914e12ce7f9f2a97fa",
+      "bodyTextPrefix": "120 рецептов Оглавление Купить · 890 ₽ ТИМОФЕЙ БАГРОВ 120 домашн",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "120 домашних рецептов, которые работают — Тимофей Багров",
+      "hasCanvas": false,
+      "bodyTextLen": 4791,
+      "bodyTextHash": "b1875b1bf00ef8f0f311433e1b8255264555f400536b9ad46669416c4b3cb3a4",
+      "bodyTextPrefix": "120 рецептов Купить · 890 ₽ ТИМОФЕЙ БАГРОВ 120 домашних рецептов",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
